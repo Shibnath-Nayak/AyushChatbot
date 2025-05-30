@@ -5,7 +5,7 @@
 ![Issues](https://img.shields.io/github/issues/Srimathij/Indra_Bot)
 ![Pull Requests](https://img.shields.io/github/issues-pr/Srimathij/Indra_Bot?)
 
-# 🤖Indra Bot🤖
+# Aiyu chatbot #
 
 ___CHATBOTS ASSISTING US___
 
