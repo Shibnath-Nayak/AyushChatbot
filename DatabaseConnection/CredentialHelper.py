@@ -1,0 +1,6 @@
+
+
+firebaseConfig = {
+    "site": "ayurveda",
+}
+
